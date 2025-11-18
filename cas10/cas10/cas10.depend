@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1763476925 source:c:\users\owner\desktop\posao\programinje mehatronika\cas10\cas10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+
