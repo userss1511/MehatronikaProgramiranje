@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1765295163 source:c:\users\owner\desktop\posao\programinje mehatronika\cas12\cas12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
