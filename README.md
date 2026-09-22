@@ -1,2 +1,2 @@
 # MehatronikaProgramiranje
-Mehatronika Programiranje 2025/26
+Mehatronika Programiranje 2026/27
